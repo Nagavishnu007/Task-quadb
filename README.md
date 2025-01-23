@@ -12,4 +12,5 @@ I used Axios, a third-party library, to handle API requests. Redux is used to ma
 
 When the logout button is clicked, the user's credentials are removed from local storage, and they are redirected to the authentication page.
 
-Live demo link : todo-task-quadb.netlify.app
+Live demo link : https://todo-task-quadb.netlify.app/
+Screenshot : https://github.com/user-attachments/assets/65b77fa4-ddfc-4665-b3f6-c383288cad3a
